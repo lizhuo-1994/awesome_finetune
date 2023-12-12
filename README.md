@@ -1,4 +1,6 @@
-# awesome_finetune: A collection of fine-tuning methods on LLM models including Prefix, P-tuning, Lora, and Retrieval-augmented generation.
+# awesome_finetune
+
+A collection of fine-tuning methods on LLM models including Prefix, P-tuning, Lora, and Retrieval-augmented generation.
 
 ## Prefix
 
